@@ -1,4 +1,4 @@
-# MobDev-23-28
+# The Language Game
 Welkom bij ons project voor het vak Augmented Reality and Mobile App Development
 ## Omschrijving
 Ons project bestaat uit 2 Apps: <br>
