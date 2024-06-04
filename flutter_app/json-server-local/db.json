@@ -1,0 +1,113 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "Toren",
+      "language_id": 1,
+      "translation": "Tower"
+    },
+    {
+      "id": 2,
+      "word": "Tricot",
+      "language_id": 2,
+      "translation": "Knitting"
+    },
+    {
+      "id": 3,
+      "word": "Fiets",
+      "language_id": 1,
+      "translation": "Bike"
+    },
+    {
+      "id": 4,
+      "word": "Appel",
+      "language_id": 1,
+      "translation": "Apple"
+    },
+    {
+      "id": 5,
+      "word": "Muis",
+      "language_id": 1,
+      "translation": "Mouse"
+    },
+    {
+      "id": 6,
+      "word": "Arbre",
+      "language_id": 2,
+      "translation": "Tree"
+    },
+    {
+      "id": 7,
+      "word": "Vaso",
+      "language_id": 3,
+      "translation": "Glas"
+    },
+    {
+      "id": 8,
+      "word": "Libro",
+      "language_id": 3,
+      "translation": "Book"
+    },
+    {
+      "id": 9,
+      "word": "Eau",
+      "language_id": 2,
+      "translation": "Water"
+    },
+    {
+      "id": 10,
+      "word": "Voet",
+      "language_id": 1,
+      "translation": "Foot"
+    },
+    {
+      "id": 11,
+      "word": "Bolígrafo",
+      "language_id": 3,
+      "translation": "Pen"
+    },
+    {
+      "id": 12,
+      "word": "Pantalon",
+      "language_id": 2,
+      "translation": "Trousers"
+    },
+    {
+      "id": 13,
+      "word": "Bandera",
+      "language_id": 3,
+      "translation": "Flag"
+    },
+    {
+      "id": 14,
+      "word": "Voiture",
+      "language_id": 2,
+      "translation": "Car"
+    },
+    {
+      "id": 15,
+      "word": "Ville",
+      "language_id": 2,
+      "translation": "City"
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "name": "Dutch"
+    },
+    {
+      "id": 2,
+      "name": "French"
+    },
+    {
+      "id": 3,
+      "name": "Spanish"
+    }
+  ],
+  "collected_words": [],
+  "correct_words": [],
+  "points": {
+    "points": 0
+  }
+}
